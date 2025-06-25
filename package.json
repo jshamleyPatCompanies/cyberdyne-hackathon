@@ -6,7 +6,7 @@
     "start": "nx run cyberdyne-web:serve --configuration=development",
     "lint": "yarn nx run-many --target=lint --fix --all=true --parallel --maxParallel=4 --verbose",
     "test": "nx run-many --target=test --all=true --parallel --maxParallel=4 --verbose",
-    "build": "nx run-many --target=build --all=true --parallel --verbose"
+    "build": "nx run cyberdyne-web:build --configuration=production --skip-nx-cache=true --verbose"
   },
   "private": true,
   "dependencies": {
