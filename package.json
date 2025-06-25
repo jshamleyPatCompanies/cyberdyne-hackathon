@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "start": "nx run cyberdyne-web:serve --configuration=development"
+    "start": "nx run cyberdyne-web:serve --configuration=development",
+    "affected": "nx affected -t lint test build --base=$NX_BASE --head=$NX_HEAD"
   },
   "private": true,
   "dependencies": {
