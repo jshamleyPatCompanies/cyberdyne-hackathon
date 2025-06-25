@@ -1,0 +1,25 @@
+Business Value/Problem Statement:
+People come to the dentist and they are given paper forms to fill out. The staff at the dentist office has to then input the data in to the system. 
+
+No one likes to fill in paper forms on a clip board in a little chair in the waiting room. Oh the pressure to fill it in fast because we didn't arrive early enough to the appointment to fill out the 35 pages of forms. 
+
+Then the staff has to try to read patients' handwritting. Good luck! 
+
+The staff has to then enter in the data in the system and this manual process is prone to errors. 
+
+This is wasting a lot of time for the staff when they could be better serving patients. 
+
+Practices are using all kinds of different forms. While we are trying to get them to standardize around a form, change is hard for some of our practices and they don't want to use different forms. 
+
+We want to develop an AI agent that will read whatever new patient form that 
+
+Insurance cards information is also hand entered by the staff as well as scanned. Seems silly to do both and with all manual data enter it is prone to errors. And the seconds used to enter the information is time that the practice could be getting back.
+
+Technologies & Approach used:
+Angular
+Dynamsoft Scanner
+Microsoft Copilot AI agent
+Azure Cloud
+
+Next Steps:
+While we have created a customizable medical history in an attempt to get practices to adopt our standardized forms we could provide an option to let them scan in any new patient forms that they have decided to use.
