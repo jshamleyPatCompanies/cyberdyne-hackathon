@@ -71,5 +71,4 @@
       "unitTestRunner": "jest"
     }
   },
-  // "implicitDependencies" removed as it is deprecated in Nx 18
 }
