@@ -22,6 +22,7 @@
     "dynamsoft-capture-vision-router": "2.2.10",
     "dynamsoft-core": "3.2.10",
     "dynamsoft-document-normalizer": "2.2.10",
+    "dynamsoft-document-viewer": "^2.1.0",
     "dynamsoft-license": "3.2.10",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
