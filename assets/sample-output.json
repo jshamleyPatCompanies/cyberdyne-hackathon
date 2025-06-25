@@ -1,0 +1,2065 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2025-06-25T19:45:37Z",
+	"lastUpdatedDateTime": "2025-06-25T19:45:38Z",
+	"analyzeResult": {
+		"apiVersion": "2024-11-30",
+		"modelId": "prebuilt-healthInsuranceCard.us",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "PREMERA\nMicrosoft\nBLUE CROSS\nMember\nMedical Network HERITAGE\nANGEL BROWN\nPremera Dental\nYES\nPrefix Identification # Suffix\nPremera Vision\nYES\nABC\n123456789\n01\nGroup # 1000000\nHEALTH SAVINGS PLAN\nRx Group # BCAAXYZ\nShared In and Out of Network\nRx BIN# 987654\nDeductible\n$1,500\nCoinsurance Max\n$1,000\nBCBS 456\nNote: Rx and Medical Cost-Shares are Shared\nRx\nPPO",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": -0.07689999788999557,
+				"width": 1000,
+				"height": 700,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "PREMERA",
+						"polygon": [
+							79,
+							68,
+							303,
+							68,
+							303,
+							109,
+							80,
+							112
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 0,
+							"length": 7
+						}
+					},
+					{
+						"content": "Microsoft",
+						"polygon": [
+							708,
+							103,
+							861,
+							104,
+							861,
+							138,
+							708,
+							137
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 8,
+							"length": 9
+						}
+					},
+					{
+						"content": "BLUE",
+						"polygon": [
+							82,
+							127,
+							127,
+							127,
+							127,
+							145,
+							82,
+							145
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 18,
+							"length": 4
+						}
+					},
+					{
+						"content": "CROSS",
+						"polygon": [
+							138,
+							127,
+							202,
+							127,
+							202,
+							144,
+							138,
+							145
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 23,
+							"length": 5
+						}
+					},
+					{
+						"content": "Member",
+						"polygon": [
+							73,
+							198,
+							169,
+							198,
+							169,
+							220,
+							73,
+							220
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 29,
+							"length": 6
+						}
+					},
+					{
+						"content": "Medical",
+						"polygon": [
+							547,
+							199,
+							622,
+							199,
+							622,
+							221,
+							547,
+							221
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 36,
+							"length": 7
+						}
+					},
+					{
+						"content": "Network",
+						"polygon": [
+							630,
+							199,
+							710,
+							199,
+							710,
+							221,
+							630,
+							221
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 44,
+							"length": 7
+						}
+					},
+					{
+						"content": "HERITAGE",
+						"polygon": [
+							724,
+							199,
+							845,
+							199,
+							845,
+							222,
+							724,
+							221
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 52,
+							"length": 8
+						}
+					},
+					{
+						"content": "ANGEL",
+						"polygon": [
+							75,
+							230,
+							156,
+							230,
+							156,
+							251,
+							75,
+							252
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 61,
+							"length": 5
+						}
+					},
+					{
+						"content": "BROWN",
+						"polygon": [
+							163,
+							230,
+							252,
+							229,
+							252,
+							251,
+							163,
+							251
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 67,
+							"length": 5
+						}
+					},
+					{
+						"content": "Premera",
+						"polygon": [
+							548,
+							233,
+							644,
+							234,
+							644,
+							258,
+							547,
+							258
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 73,
+							"length": 7
+						}
+					},
+					{
+						"content": "Dental",
+						"polygon": [
+							654,
+							234,
+							728,
+							234,
+							728,
+							258,
+							654,
+							258
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 81,
+							"length": 6
+						}
+					},
+					{
+						"content": "YES",
+						"polygon": [
+							779,
+							235,
+							828,
+							234,
+							828,
+							257,
+							779,
+							257
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 88,
+							"length": 3
+						}
+					},
+					{
+						"content": "Prefix",
+						"polygon": [
+							72,
+							269,
+							139,
+							269,
+							139,
+							293,
+							72,
+							293
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 92,
+							"length": 6
+						}
+					},
+					{
+						"content": "Identification",
+						"polygon": [
+							160,
+							269,
+							311,
+							269,
+							311,
+							293,
+							160,
+							293
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 99,
+							"length": 14
+						}
+					},
+					{
+						"content": "#",
+						"polygon": [
+							319,
+							269,
+							334,
+							269,
+							334,
+							293,
+							319,
+							293
+						],
+						"confidence": 0.974,
+						"span": {
+							"offset": 114,
+							"length": 1
+						}
+					},
+					{
+						"content": "Suffix",
+						"polygon": [
+							347,
+							269,
+							417,
+							269,
+							417,
+							293,
+							347,
+							293
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 116,
+							"length": 6
+						}
+					},
+					{
+						"content": "Premera",
+						"polygon": [
+							548,
+							270,
+							645,
+							270,
+							645,
+							294,
+							548,
+							294
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 123,
+							"length": 7
+						}
+					},
+					{
+						"content": "Vision",
+						"polygon": [
+							653,
+							270,
+							726,
+							270,
+							726,
+							294,
+							653,
+							294
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 131,
+							"length": 6
+						}
+					},
+					{
+						"content": "YES",
+						"polygon": [
+							780,
+							270,
+							829,
+							270,
+							829,
+							293,
+							780,
+							292
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 138,
+							"length": 3
+						}
+					},
+					{
+						"content": "ABC",
+						"polygon": [
+							74,
+							306,
+							131,
+							306,
+							131,
+							328,
+							74,
+							328
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 142,
+							"length": 3
+						}
+					},
+					{
+						"content": "123456789",
+						"polygon": [
+							159,
+							306,
+							287,
+							306,
+							287,
+							329,
+							159,
+							329
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 146,
+							"length": 9
+						}
+					},
+					{
+						"content": "01",
+						"polygon": [
+							341,
+							307,
+							369,
+							307,
+							369,
+							329,
+							341,
+							329
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 156,
+							"length": 2
+						}
+					},
+					{
+						"content": "Group",
+						"polygon": [
+							71,
+							368,
+							140,
+							368,
+							140,
+							393,
+							71,
+							394
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 159,
+							"length": 5
+						}
+					},
+					{
+						"content": "#",
+						"polygon": [
+							146,
+							368,
+							164,
+							368,
+							164,
+							393,
+							146,
+							393
+						],
+						"confidence": 0.926,
+						"span": {
+							"offset": 165,
+							"length": 1
+						}
+					},
+					{
+						"content": "1000000",
+						"polygon": [
+							175,
+							368,
+							272,
+							367,
+							272,
+							392,
+							175,
+							393
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 167,
+							"length": 7
+						}
+					},
+					{
+						"content": "HEALTH",
+						"polygon": [
+							548,
+							366,
+							645,
+							366,
+							645,
+							390,
+							548,
+							390
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 175,
+							"length": 6
+						}
+					},
+					{
+						"content": "SAVINGS",
+						"polygon": [
+							654,
+							366,
+							760,
+							366,
+							760,
+							390,
+							654,
+							390
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 182,
+							"length": 7
+						}
+					},
+					{
+						"content": "PLAN",
+						"polygon": [
+							770,
+							366,
+							835,
+							366,
+							835,
+							390,
+							770,
+							390
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 190,
+							"length": 4
+						}
+					},
+					{
+						"content": "Rx",
+						"polygon": [
+							69,
+							404,
+							101,
+							404,
+							101,
+							430,
+							69,
+							429
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 195,
+							"length": 2
+						}
+					},
+					{
+						"content": "Group",
+						"polygon": [
+							109,
+							404,
+							181,
+							404,
+							181,
+							430,
+							109,
+							430
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 198,
+							"length": 5
+						}
+					},
+					{
+						"content": "#",
+						"polygon": [
+							188,
+							404,
+							202,
+							404,
+							202,
+							429,
+							188,
+							429
+						],
+						"confidence": 0.983,
+						"span": {
+							"offset": 204,
+							"length": 1
+						}
+					},
+					{
+						"content": "BCAAXYZ",
+						"polygon": [
+							216,
+							405,
+							333,
+							405,
+							333,
+							429,
+							216,
+							429
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 206,
+							"length": 7
+						}
+					},
+					{
+						"content": "Shared",
+						"polygon": [
+							692,
+							398,
+							759,
+							398,
+							759,
+							417,
+							692,
+							418
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 214,
+							"length": 6
+						}
+					},
+					{
+						"content": "In",
+						"polygon": [
+							767,
+							398,
+							782,
+							398,
+							783,
+							417,
+							767,
+							417
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 221,
+							"length": 2
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							789,
+							398,
+							823,
+							398,
+							823,
+							417,
+							790,
+							417
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 224,
+							"length": 3
+						}
+					},
+					{
+						"content": "Out",
+						"polygon": [
+							830,
+							398,
+							863,
+							398,
+							863,
+							417,
+							830,
+							417
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 228,
+							"length": 3
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							868,
+							398,
+							886,
+							397,
+							886,
+							417,
+							868,
+							417
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 232,
+							"length": 2
+						}
+					},
+					{
+						"content": "Network",
+						"polygon": [
+							892,
+							397,
+							968,
+							397,
+							968,
+							416,
+							892,
+							417
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 235,
+							"length": 7
+						}
+					},
+					{
+						"content": "Rx",
+						"polygon": [
+							69,
+							440,
+							100,
+							440,
+							100,
+							463,
+							69,
+							463
+						],
+						"confidence": 0.98,
+						"span": {
+							"offset": 243,
+							"length": 2
+						}
+					},
+					{
+						"content": "BIN#",
+						"polygon": [
+							109,
+							440,
+							163,
+							440,
+							163,
+							463,
+							109,
+							463
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 246,
+							"length": 4
+						}
+					},
+					{
+						"content": "987654",
+						"polygon": [
+							181,
+							440,
+							260,
+							441,
+							260,
+							464,
+							181,
+							463
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 251,
+							"length": 6
+						}
+					},
+					{
+						"content": "Deductible",
+						"polygon": [
+							548,
+							420,
+							658,
+							420,
+							658,
+							440,
+							548,
+							440
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 258,
+							"length": 10
+						}
+					},
+					{
+						"content": "$1,500",
+						"polygon": [
+							761,
+							420,
+							826,
+							420,
+							826,
+							440,
+							761,
+							441
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 269,
+							"length": 6
+						}
+					},
+					{
+						"content": "Coinsurance",
+						"polygon": [
+							549,
+							449,
+							677,
+							449,
+							677,
+							469,
+							549,
+							470
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 276,
+							"length": 11
+						}
+					},
+					{
+						"content": "Max",
+						"polygon": [
+							684,
+							449,
+							725,
+							449,
+							725,
+							469,
+							684,
+							469
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 288,
+							"length": 3
+						}
+					},
+					{
+						"content": "$1,000",
+						"polygon": [
+							763,
+							449,
+							829,
+							448,
+							829,
+							469,
+							763,
+							470
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 292,
+							"length": 6
+						}
+					},
+					{
+						"content": "BCBS",
+						"polygon": [
+							69,
+							476,
+							138,
+							476,
+							138,
+							499,
+							69,
+							499
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 299,
+							"length": 4
+						}
+					},
+					{
+						"content": "456",
+						"polygon": [
+							153,
+							476,
+							194,
+							476,
+							194,
+							499,
+							153,
+							499
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 304,
+							"length": 3
+						}
+					},
+					{
+						"content": "Note:",
+						"polygon": [
+							548,
+							540,
+							587,
+							540,
+							587,
+							556,
+							548,
+							557
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 308,
+							"length": 5
+						}
+					},
+					{
+						"content": "Rx",
+						"polygon": [
+							593,
+							540,
+							611,
+							540,
+							611,
+							556,
+							593,
+							556
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 314,
+							"length": 2
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							616,
+							540,
+							642,
+							539,
+							642,
+							556,
+							616,
+							556
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 317,
+							"length": 3
+						}
+					},
+					{
+						"content": "Medical",
+						"polygon": [
+							648,
+							539,
+							702,
+							538,
+							702,
+							555,
+							648,
+							556
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 321,
+							"length": 7
+						}
+					},
+					{
+						"content": "Cost-Shares",
+						"polygon": [
+							707,
+							538,
+							794,
+							537,
+							794,
+							554,
+							707,
+							555
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 329,
+							"length": 11
+						}
+					},
+					{
+						"content": "are",
+						"polygon": [
+							799,
+							537,
+							820,
+							537,
+							821,
+							554,
+							799,
+							554
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 341,
+							"length": 3
+						}
+					},
+					{
+						"content": "Shared",
+						"polygon": [
+							825,
+							537,
+							876,
+							536,
+							876,
+							553,
+							825,
+							554
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 345,
+							"length": 6
+						}
+					},
+					{
+						"content": "Rx",
+						"polygon": [
+							129,
+							574,
+							211,
+							574,
+							211,
+							622,
+							129,
+							622
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 352,
+							"length": 2
+						}
+					},
+					{
+						"content": "PPO",
+						"polygon": [
+							904,
+							593,
+							957,
+							592,
+							957,
+							614,
+							904,
+							614
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 355,
+							"length": 3
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "PREMERA",
+						"polygon": [
+							79,
+							68,
+							302,
+							67,
+							302,
+							109,
+							80,
+							111
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Microsoft",
+						"polygon": [
+							708,
+							103,
+							861,
+							104,
+							861,
+							137,
+							708,
+							137
+						],
+						"spans": [
+							{
+								"offset": 8,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "BLUE CROSS",
+						"polygon": [
+							82,
+							127,
+							202,
+							127,
+							202,
+							144,
+							82,
+							145
+						],
+						"spans": [
+							{
+								"offset": 18,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "Member",
+						"polygon": [
+							73,
+							198,
+							169,
+							198,
+							169,
+							220,
+							73,
+							220
+						],
+						"spans": [
+							{
+								"offset": 29,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Medical Network HERITAGE",
+						"polygon": [
+							547,
+							198,
+							844,
+							199,
+							844,
+							222,
+							547,
+							221
+						],
+						"spans": [
+							{
+								"offset": 36,
+								"length": 24
+							}
+						]
+					},
+					{
+						"content": "ANGEL BROWN",
+						"polygon": [
+							75,
+							230,
+							252,
+							229,
+							252,
+							251,
+							75,
+							251
+						],
+						"spans": [
+							{
+								"offset": 61,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "Premera Dental",
+						"polygon": [
+							547,
+							233,
+							727,
+							233,
+							727,
+							257,
+							547,
+							257
+						],
+						"spans": [
+							{
+								"offset": 73,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "YES",
+						"polygon": [
+							779,
+							234,
+							828,
+							234,
+							828,
+							257,
+							779,
+							257
+						],
+						"spans": [
+							{
+								"offset": 88,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "Prefix Identification # Suffix",
+						"polygon": [
+							72,
+							269,
+							417,
+							269,
+							417,
+							293,
+							72,
+							293
+						],
+						"spans": [
+							{
+								"offset": 92,
+								"length": 30
+							}
+						]
+					},
+					{
+						"content": "Premera Vision",
+						"polygon": [
+							548,
+							269,
+							726,
+							270,
+							726,
+							293,
+							548,
+							293
+						],
+						"spans": [
+							{
+								"offset": 123,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "YES",
+						"polygon": [
+							780,
+							270,
+							829,
+							270,
+							829,
+							292,
+							780,
+							292
+						],
+						"spans": [
+							{
+								"offset": 138,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "ABC",
+						"polygon": [
+							74,
+							306,
+							131,
+							305,
+							131,
+							328,
+							74,
+							328
+						],
+						"spans": [
+							{
+								"offset": 142,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "123456789",
+						"polygon": [
+							158,
+							306,
+							287,
+							306,
+							287,
+							329,
+							159,
+							329
+						],
+						"spans": [
+							{
+								"offset": 146,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "01",
+						"polygon": [
+							341,
+							306,
+							368,
+							307,
+							368,
+							329,
+							341,
+							329
+						],
+						"spans": [
+							{
+								"offset": 156,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "Group # 1000000",
+						"polygon": [
+							70,
+							368,
+							272,
+							367,
+							272,
+							392,
+							71,
+							393
+						],
+						"spans": [
+							{
+								"offset": 159,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "HEALTH SAVINGS PLAN",
+						"polygon": [
+							548,
+							366,
+							834,
+							366,
+							834,
+							390,
+							548,
+							390
+						],
+						"spans": [
+							{
+								"offset": 175,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "Rx Group # BCAAXYZ",
+						"polygon": [
+							69,
+							404,
+							333,
+							405,
+							333,
+							430,
+							69,
+							429
+						],
+						"spans": [
+							{
+								"offset": 195,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "Shared In and Out of Network",
+						"polygon": [
+							692,
+							398,
+							967,
+							397,
+							967,
+							416,
+							692,
+							418
+						],
+						"spans": [
+							{
+								"offset": 214,
+								"length": 28
+							}
+						]
+					},
+					{
+						"content": "Rx BIN# 987654",
+						"polygon": [
+							69,
+							440,
+							260,
+							440,
+							260,
+							463,
+							69,
+							463
+						],
+						"spans": [
+							{
+								"offset": 243,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "Deductible",
+						"polygon": [
+							548,
+							420,
+							658,
+							420,
+							658,
+							440,
+							548,
+							440
+						],
+						"spans": [
+							{
+								"offset": 258,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "$1,500",
+						"polygon": [
+							761,
+							420,
+							825,
+							420,
+							825,
+							440,
+							761,
+							440
+						],
+						"spans": [
+							{
+								"offset": 269,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Coinsurance Max",
+						"polygon": [
+							549,
+							449,
+							725,
+							449,
+							725,
+							469,
+							549,
+							469
+						],
+						"spans": [
+							{
+								"offset": 276,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "$1,000",
+						"polygon": [
+							763,
+							448,
+							828,
+							448,
+							828,
+							469,
+							763,
+							469
+						],
+						"spans": [
+							{
+								"offset": 292,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "BCBS 456",
+						"polygon": [
+							69,
+							476,
+							193,
+							476,
+							193,
+							498,
+							69,
+							498
+						],
+						"spans": [
+							{
+								"offset": 299,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "Note: Rx and Medical Cost-Shares are Shared",
+						"polygon": [
+							548,
+							540,
+							875,
+							536,
+							875,
+							553,
+							548,
+							557
+						],
+						"spans": [
+							{
+								"offset": 308,
+								"length": 43
+							}
+						]
+					},
+					{
+						"content": "Rx",
+						"polygon": [
+							129,
+							574,
+							211,
+							574,
+							211,
+							622,
+							129,
+							622
+						],
+						"spans": [
+							{
+								"offset": 352,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "PPO",
+						"polygon": [
+							903,
+							592,
+							957,
+							592,
+							957,
+							613,
+							904,
+							614
+						],
+						"spans": [
+							{
+								"offset": 355,
+								"length": 3
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 358
+					}
+				]
+			}
+		],
+		"styles": [],
+		"documents": [
+			{
+				"docType": "healthInsuranceCard.us",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0,
+							0,
+							1000,
+							0,
+							1000,
+							700,
+							0,
+							700
+						]
+					}
+				],
+				"fields": {
+					"Copays": {
+						"type": "array",
+						"valueArray": [
+							{
+								"type": "object",
+								"valueObject": {
+									"Amount": {
+										"type": "number",
+										"valueNumber": 1500,
+										"content": "$1,500",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													761,
+													420,
+													826,
+													420,
+													826,
+													440,
+													761,
+													441
+												]
+											}
+										],
+										"confidence": 0.739,
+										"spans": [
+											{
+												"offset": 269,
+												"length": 6
+											}
+										]
+									},
+									"Benefit": {
+										"type": "string",
+										"valueString": "Deductible",
+										"content": "Deductible",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													548,
+													420,
+													658,
+													420,
+													658,
+													440,
+													548,
+													440
+												]
+											}
+										],
+										"confidence": 0.739,
+										"spans": [
+											{
+												"offset": 258,
+												"length": 10
+											}
+										]
+									}
+								},
+								"confidence": 0.735
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Amount": {
+										"type": "number",
+										"valueNumber": 1000,
+										"content": "$1,000",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													763,
+													449,
+													829,
+													448,
+													829,
+													469,
+													763,
+													470
+												]
+											}
+										],
+										"confidence": 0.738,
+										"spans": [
+											{
+												"offset": 292,
+												"length": 6
+											}
+										]
+									},
+									"Benefit": {
+										"type": "string",
+										"valueString": "Coinsurance Max",
+										"content": "Coinsurance Max",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													549,
+													449,
+													725,
+													449,
+													725,
+													470,
+													549,
+													470
+												]
+											}
+										],
+										"confidence": 0.735,
+										"spans": [
+											{
+												"offset": 276,
+												"length": 15
+											}
+										]
+									}
+								},
+								"confidence": 0.731
+							}
+						],
+						"confidence": 0.737
+					},
+					"GroupNumber": {
+						"type": "string",
+						"valueString": "1000000",
+						"content": "1000000",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									175,
+									368,
+									272,
+									367,
+									272,
+									392,
+									175,
+									393
+								]
+							}
+						],
+						"confidence": 0.788,
+						"spans": [
+							{
+								"offset": 167,
+								"length": 7
+							}
+						]
+					},
+					"IdNumber": {
+						"type": "object",
+						"valueObject": {
+							"Number": {
+								"type": "string",
+								"valueString": "123456789",
+								"content": "123456789",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											159,
+											306,
+											287,
+											306,
+											287,
+											329,
+											159,
+											329
+										]
+									}
+								],
+								"confidence": 0.83,
+								"spans": [
+									{
+										"offset": 146,
+										"length": 9
+									}
+								]
+							},
+							"Prefix": {
+								"type": "string",
+								"valueString": "ABC",
+								"content": "ABC",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											74,
+											306,
+											131,
+											306,
+											131,
+											328,
+											74,
+											328
+										]
+									}
+								],
+								"confidence": 0.663,
+								"spans": [
+									{
+										"offset": 142,
+										"length": 3
+									}
+								]
+							}
+						}
+					},
+					"Insurer": {
+						"type": "string",
+						"valueString": "PREMERA\nBLUE CROSS",
+						"content": "PREMERA\nBLUE CROSS",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									79,
+									68,
+									303,
+									66,
+									304,
+									144,
+									80,
+									145
+								]
+							}
+						],
+						"confidence": 0.754,
+						"spans": [
+							{
+								"offset": 0,
+								"length": 7
+							},
+							{
+								"offset": 18,
+								"length": 10
+							}
+						]
+					},
+					"Member": {
+						"type": "object",
+						"valueObject": {
+							"Employer": {
+								"type": "string",
+								"valueString": "Microsoft",
+								"content": "Microsoft",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											708,
+											103,
+											861,
+											104,
+											861,
+											138,
+											708,
+											137
+										]
+									}
+								],
+								"confidence": 0.732,
+								"spans": [
+									{
+										"offset": 8,
+										"length": 9
+									}
+								]
+							},
+							"IdNumberSuffix": {
+								"type": "string",
+								"valueString": "01",
+								"content": "01",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											341,
+											307,
+											369,
+											307,
+											369,
+											329,
+											341,
+											329
+										]
+									}
+								],
+								"confidence": 0.59,
+								"spans": [
+									{
+										"offset": 156,
+										"length": 2
+									}
+								]
+							},
+							"Name": {
+								"type": "string",
+								"valueString": "ANGEL BROWN",
+								"content": "ANGEL BROWN",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											75,
+											230,
+											252,
+											229,
+											252,
+											251,
+											75,
+											252
+										]
+									}
+								],
+								"confidence": 0.8,
+								"spans": [
+									{
+										"offset": 61,
+										"length": 11
+									}
+								]
+							}
+						}
+					},
+					"Plan": {
+						"type": "object",
+						"valueObject": {
+							"Number": {
+								"type": "string",
+								"valueString": "456",
+								"content": "456",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											153,
+											476,
+											194,
+											476,
+											194,
+											499,
+											153,
+											499
+										]
+									}
+								],
+								"confidence": 0.632,
+								"spans": [
+									{
+										"offset": 304,
+										"length": 3
+									}
+								]
+							},
+							"Name": {
+								"type": "string",
+								"valueString": "HERITAGE",
+								"content": "HERITAGE",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											724,
+											199,
+											845,
+											199,
+											845,
+											222,
+											724,
+											221
+										]
+									}
+								],
+								"confidence": 0.734,
+								"spans": [
+									{
+										"offset": 52,
+										"length": 8
+									}
+								]
+							}
+						}
+					},
+					"PrescriptionInfo": {
+						"type": "object",
+						"valueObject": {
+							"RxBIN": {
+								"type": "string",
+								"valueString": "987654",
+								"content": "987654",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											181,
+											440,
+											260,
+											441,
+											260,
+											464,
+											181,
+											463
+										]
+									}
+								],
+								"confidence": 0.83,
+								"spans": [
+									{
+										"offset": 251,
+										"length": 6
+									}
+								]
+							},
+							"RxGrp": {
+								"type": "string",
+								"valueString": "BCAAXYZ",
+								"content": "BCAAXYZ",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											216,
+											405,
+											333,
+											405,
+											333,
+											429,
+											216,
+											429
+										]
+									}
+								],
+								"confidence": 0.831,
+								"spans": [
+									{
+										"offset": 206,
+										"length": 7
+									}
+								]
+							}
+						}
+					}
+				},
+				"confidence": 1,
+				"spans": [
+					{
+						"offset": 0,
+						"length": 358
+					}
+				]
+			}
+		],
+		"contentFormat": "text"
+	}
+}
