@@ -71,7 +71,5 @@
       "unitTestRunner": "jest"
     }
   },
-  "implicitDependencies": {
-    "dynamsoft/samples/hello-world-singlepage/hello-world-react/**": []
-  }
+  // "implicitDependencies" removed as it is deprecated in Nx 18
 }
