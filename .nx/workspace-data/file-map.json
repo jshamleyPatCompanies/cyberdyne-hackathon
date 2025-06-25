@@ -78,28 +78,20 @@
         "hash": "5443105041930014821"
       },
       {
-        "file": ".eslintignore",
-        "hash": "7663861978715868291"
-      },
-      {
-        "file": ".eslintrc.json",
-        "hash": "18315524891129148814"
+        "file": "tsconfig.base.json",
+        "hash": "16936441711144470533"
       },
       {
         "file": ".github/instructions/nx.instructions.md",
         "hash": "16643269379148485108"
       },
       {
-        "file": ".github/prompts/push.prompt.md",
-        "hash": "8235065988007658756"
+        "file": ".prettierignore",
+        "hash": "3395189204293871444"
       },
       {
-        "file": ".github/workflows/ci.yml",
-        "hash": "8672724698693325152"
-      },
-      {
-        "file": ".github/workflows/deploy-to-pages.yml",
-        "hash": "5672387365260799346"
+        "file": ".vs/VSWorkspaceState.json",
+        "hash": "3046474569605399399"
       },
       {
         "file": ".gitignore",
@@ -110,104 +102,36 @@
         "hash": "7136578310369384982"
       },
       {
-        "file": ".prettierignore",
-        "hash": "3395189204293871444"
-      },
-      {
-        "file": ".prettierrc",
-        "hash": "16267754514737964994"
-      },
-      {
-        "file": ".vs/VSWorkspaceState.json",
-        "hash": "3046474569605399399"
-      },
-      {
-        "file": ".vs/cyberdyne-hackathon/FileContentIndex/480af1f8-92c3-4f07-a488-fdc9a6ad24a5.vsidx",
-        "hash": "17495444895690214512"
-      },
-      {
-        "file": ".vs/cyberdyne-hackathon/FileContentIndex/616e00b5-ab8b-4640-99b3-ab2fb1145350.vsidx",
-        "hash": "8801032990449914407"
-      },
-      {
-        "file": ".vs/cyberdyne-hackathon/FileContentIndex/dc366f33-0878-45f4-bec5-ad614d703d91.vsidx",
-        "hash": "12231061124985925576"
-      },
-      {
-        "file": ".vs/cyberdyne-hackathon/FileContentIndex/f00827f6-836e-41bf-accf-d83f35903169.vsidx",
-        "hash": "14789775091899436438"
-      },
-      {
-        "file": ".vs/cyberdyne-hackathon/FileContentIndex/read.lock",
-        "hash": "3244421341483603138"
-      },
-      {
-        "file": ".vs/cyberdyne-hackathon/v17/.wsuo",
-        "hash": "8074663694080591868"
-      },
-      {
-        "file": ".vs/slnx.sqlite",
-        "hash": "10176405142342504071"
-      },
-      {
-        "file": ".vscode/extensions.json",
-        "hash": "17425123947026961272"
-      },
-      {
-        "file": ".vscode/settings.json",
-        "hash": "13996288197584128655"
-      },
-      {
-        "file": "README.md",
-        "hash": "13422140264366634042"
-      },
-      {
-        "file": "assets/ChatGPT Image Jun 19, 2025, 02_38_36 PM.png",
-        "hash": "2443534624003297478"
-      },
-      {
-        "file": "assets/Presentation/FrontDeskDelight.jpeg",
-        "hash": "13447424917141450457"
-      },
-      {
-        "file": "assets/Presentation/FrontDeskStruggles.jpeg",
-        "hash": "78524677029285960"
-      },
-      {
-        "file": "assets/Presentation/Team Cyberdyne.pptx",
-        "hash": "16845147756254136480"
+        "file": "assets/ca_english_patient_package_v2.pdf",
+        "hash": "5170931641944775321"
       },
       {
         "file": "assets/Presentation/TheStory.txt",
         "hash": "16576818101682601899"
       },
       {
-        "file": "assets/Scanned Document.pdf",
-        "hash": "9761160726702830743"
+        "file": ".github/workflows/ci.yml",
+        "hash": "8672724698693325152"
       },
       {
-        "file": "assets/ca_english_patient_package_v2.pdf",
-        "hash": "5170931641944775321"
+        "file": "nx.json",
+        "hash": "5656863487153670787"
       },
       {
-        "file": "assets/group-card.webp",
-        "hash": "13723051679597136663"
+        "file": "assets/Presentation/FrontDeskStruggles.jpeg",
+        "hash": "78524677029285960"
       },
       {
-        "file": "assets/id-card-sample.jpeg",
-        "hash": "7852815780109442450"
+        "file": ".vs/cyberdyne-hackathon/FileContentIndex/616e00b5-ab8b-4640-99b3-ab2fb1145350.vsidx",
+        "hash": "8801032990449914407"
       },
       {
-        "file": "intelligence/README.md",
+        "file": ".vscode/extensions.json",
+        "hash": "17425123947026961272"
+      },
+      {
+        "file": ".vs/cyberdyne-hackathon/FileContentIndex/read.lock",
         "hash": "3244421341483603138"
-      },
-      {
-        "file": "intelligence/azureauth/authenticating",
-        "hash": "6851176821607578831"
-      },
-      {
-        "file": "intelligence/azureauth/azurekeycredential",
-        "hash": "7255634609161054105"
       },
       {
         "file": "jest.config.ts",
@@ -218,20 +142,96 @@
         "hash": "9430166341120122740"
       },
       {
-        "file": "nx.json",
-        "hash": "5656863487153670787"
+        "file": "yarn.lock",
+        "hash": "8290012326854127812"
       },
       {
         "file": "package.json",
         "hash": "4575167532902593793"
       },
       {
-        "file": "tsconfig.base.json",
-        "hash": "16936441711144470533"
+        "file": "assets/group-card.webp",
+        "hash": "13723051679597136663"
       },
       {
-        "file": "yarn.lock",
-        "hash": "8290012326854127812"
+        "file": ".vscode/settings.json",
+        "hash": "13996288197584128655"
+      },
+      {
+        "file": "intelligence/README.md",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": ".vs/cyberdyne-hackathon/FileContentIndex/dc366f33-0878-45f4-bec5-ad614d703d91.vsidx",
+        "hash": "12231061124985925576"
+      },
+      {
+        "file": "assets/Scanned Document.pdf",
+        "hash": "9761160726702830743"
+      },
+      {
+        "file": ".github/prompts/push.prompt.md",
+        "hash": "8235065988007658756"
+      },
+      {
+        "file": "assets/ChatGPT Image Jun 19, 2025, 02_38_36 PM.png",
+        "hash": "2443534624003297478"
+      },
+      {
+        "file": "assets/Presentation/FrontDeskDelight.jpeg",
+        "hash": "13447424917141450457"
+      },
+      {
+        "file": ".eslintrc.json",
+        "hash": "18315524891129148814"
+      },
+      {
+        "file": ".prettierrc",
+        "hash": "16267754514737964994"
+      },
+      {
+        "file": ".github/workflows/deploy-to-pages.yml",
+        "hash": "12817186265814624461"
+      },
+      {
+        "file": "intelligence/azureauth/azurekeycredential",
+        "hash": "7255634609161054105"
+      },
+      {
+        "file": ".vs/cyberdyne-hackathon/FileContentIndex/f00827f6-836e-41bf-accf-d83f35903169.vsidx",
+        "hash": "14789775091899436438"
+      },
+      {
+        "file": "README.md",
+        "hash": "13422140264366634042"
+      },
+      {
+        "file": ".vs/cyberdyne-hackathon/v17/.wsuo",
+        "hash": "8074663694080591868"
+      },
+      {
+        "file": ".vs/slnx.sqlite",
+        "hash": "10176405142342504071"
+      },
+      {
+        "file": ".vs/cyberdyne-hackathon/FileContentIndex/480af1f8-92c3-4f07-a488-fdc9a6ad24a5.vsidx",
+        "hash": "17495444895690214512"
+      },
+      {
+        "file": ".eslintignore",
+        "hash": "7663861978715868291"
+      },
+      {
+        "file": "intelligence/azureauth/authenticating",
+        "hash": "6851176821607578831"
+      },
+      {
+        "file": "assets/id-card-sample.jpeg",
+        "hash": "7852815780109442450"
+      },
+      {
+        "file": "assets/Presentation/Team Cyberdyne.pptx",
+        "hash": "16845147756254136480"
       }
     ],
     "projectFileMap": {
