@@ -2,7 +2,6 @@
 
 [Mobile Web Capture](https://www.dynamsoft.com/use-cases/mobile-web-capture-sdk/?utm_content=nav-solutions) is a solution designed for iOS and Android browsers. It helps developers to build document scanning web applications for mobile users to load, edit, save, and capture images from the camera right in mobile browsers.
 
-
 <span style="font-size:20px">Table of Contents</span>
 
 - [Samples](#samples)
@@ -31,7 +30,10 @@
 The following code snippet is using the public trial license to initialize the license. You can replace the public trial license with your own license key.
 
 ```typescript
-await Dynamsoft.License.LicenseManager.initLicense("DLS2eyJoYW5kc2hha2VDb2RlIjoiMjAwMDAxLTEwMjQ5NjE5NyJ9", true); // Replace license here
+await Dynamsoft.License.LicenseManager.initLicense(
+  "DLS2eyJoYW5kc2hha2VDb2RlIjoiMzQzMjQ3LU16UXpNalEzTFhkbFlpMVVjbWxoYkZCeWIybyIsIm1haW5TZXJ2ZXJVUkwiOiJodHRwczovL21kbHMuZHluYW1zb2Z0b25saW5lLmNvbSIsIm9yZ2FuaXphdGlvbklEIjoiMzQzMjQ3Iiwic3RhbmRieVNlcnZlclVSTCI6Imh0dHBzOi8vc2Rscy5keW5hbXNvZnRvbmxpbmUuY29tIiwiY2hlY2tDb2RlIjo3MjIzMjg5MDV9",
+  true
+); // Replace license here
 ```
 
 ## System Requirements
@@ -42,7 +44,7 @@ Mobile Web Capture requires the following features to work:
 
 - set Content-Type: application/wasm.
 
-*Note*:
+_Note_:
 
 If you open the web page as `file:///` or `http://` , the camera may not work correctly because the API <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia" title="getUserMedia">getUserMedia</a> usually requires HTTPS to access the camera.
 
@@ -59,12 +61,12 @@ If the test doesn't go as expected, you can [contact us](https://www.dynamsoft.c
 
 The following table is a list of supported browsers based on the above requirements:
 
-| Browser Name |             Version              |
-| :----------: | :------------------------------: |
-|    Chrome    |             v78+                 |
-|   Firefox    |             v79+                 |
-|    Safari    |             v15+                 |
-|     Edge     |             v92+                 |
+| Browser Name | Version |
+| :----------: | :-----: |
+|    Chrome    |  v78+   |
+|   Firefox    |  v79+   |
+|    Safari    |  v15+   |
+|     Edge     |  v92+   |
 
 Apart from the browsers, the operating systems may impose some limitations of their own that could restrict the use of the SDKs.
 
