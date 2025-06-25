@@ -70,5 +70,5 @@
       "style": "scss",
       "unitTestRunner": "jest"
     }
-  },
+  }
 }

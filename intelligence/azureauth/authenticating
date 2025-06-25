@@ -1,0 +1,8 @@
+import DocumentIntelligence from "@azure-rest/ai-document-intelligence";
+import { AzureKeyCredential } from "@azure/core-auth";
+
+//Document intelligence endpoint will come from the Azure portal
+const client = DocumentIntelligence(
+  process.env["DOCUMENT_INTELLIGENCE_ENDPOINT"],
+  new AzureKeyCredential()
+);
