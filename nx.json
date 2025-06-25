@@ -70,5 +70,11 @@
       "style": "scss",
       "unitTestRunner": "jest"
     }
-  }
+  },
+  "projectFilePatterns": [
+    "apps/**/project.json",
+    "libs/**/project.json",
+    "apps/**/package.json",
+    "libs/**/package.json"
+  ]
 }
