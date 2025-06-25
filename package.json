@@ -4,7 +4,9 @@
   "license": "MIT",
   "scripts": {
     "start": "nx run cyberdyne-web:serve --configuration=development",
-    "affected": "nx affected -t lint test build --base=$NX_BASE --head=$NX_HEAD"
+    "lint": "yarn nx run-many --target=lint --all=true --parallel --maxParallel=4",
+    "test": "nx run-many --target=test --all=true --parallel --maxParallel=4",
+    "build": "nx run-many --target=build --all=true --parallel"
   },
   "private": true,
   "dependencies": {

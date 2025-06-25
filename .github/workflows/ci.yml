@@ -29,10 +29,12 @@ jobs:
           node-version: 20
           cache: 'yarn'
       - run: yarn install --frozen-lockfile
-      - uses: nrwl/nx-set-shas@v4
+      # - uses: nrwl/nx-set-shas@v4
 
       - run: git branch --track main origin/main
         if: ${{ github.event_name == 'pull_request' }}
 
       # - run: npx nx-cloud record -- nx format:check
-      - run: yarn affected
+      - run: yarn lint
+      - run: yarn test
+      - run: yarn build
