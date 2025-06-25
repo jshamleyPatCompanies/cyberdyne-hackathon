@@ -1,72 +1,48 @@
-[NX Daemon Server] - 2025-06-25T20:27:18.987Z - Started listening on: \\.\pipe\nx\C:\Users\MVaughn\AppData\Local\Temp\40f34c4e7148bf29054a\d.sock
-[NX Daemon Server] - 2025-06-25T20:27:18.989Z - [WATCHER]: Subscribed to changes within: c:\WORK\patterson-hackathons\cyberdyne-hackathon (native)
-[NX Daemon Server] - 2025-06-25T20:27:18.990Z - Established a connection. Number of open connections: 1
-[NX Daemon Server] - 2025-06-25T20:27:18.992Z - Closed a connection. Number of open connections: 0
-[NX Daemon Server] - 2025-06-25T20:27:19.012Z - Established a connection. Number of open connections: 1
-[NX Daemon Server] - 2025-06-25T20:27:19.012Z - Closed a connection. Number of open connections: 0
-[NX Daemon Server] - 2025-06-25T20:27:19.012Z - Established a connection. Number of open connections: 1
-[NX Daemon Server] - 2025-06-25T20:27:19.014Z - [REQUEST]: Client Request for Project Graph Received
-[NX Daemon Server] - 2025-06-25T20:27:19.803Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
-[NX Daemon Server] - 2025-06-25T20:27:19.803Z - [REQUEST]: 
-[NX Daemon Server] - 2025-06-25T20:27:19.803Z - [REQUEST]: 
-[NX Daemon Server] - 2025-06-25T20:27:19.812Z - Time taken for 'loadNxPlugins' 787.3316000000001ms
-[NX Daemon Server] - 2025-06-25T20:27:19.813Z - Established a connection. Number of open connections: 2
-[NX Daemon Server] - 2025-06-25T20:27:19.813Z - Closed a connection. Number of open connections: 1
-[NX Daemon Server] - 2025-06-25T20:27:19.813Z - Established a connection. Number of open connections: 2
-[NX Daemon Server] - 2025-06-25T20:27:19.813Z - Established a connection. Number of open connections: 3
-[NX Daemon Server] - 2025-06-25T20:27:19.813Z - Closed a connection. Number of open connections: 2
-[NX Daemon Server] - 2025-06-25T20:27:19.815Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:19.815Z - Established a connection. Number of open connections: 3
-[NX Daemon Server] - 2025-06-25T20:27:19.815Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:19.815Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:27:19.816Z - [REQUEST]: Responding to the client. handleGlob
-[NX Daemon Server] - 2025-06-25T20:27:19.817Z - Done responding to the client handleGlob
-[NX Daemon Server] - 2025-06-25T20:27:19.817Z - Handled GLOB. Handling time: 0. Response time: 1.
-[NX Daemon Server] - 2025-06-25T20:27:20.076Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:20.076Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:20.076Z - Handled HASH_GLOB. Handling time: 2. Response time: 0.
-(node:49404) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.
+[NX Daemon Server] - 2025-06-25T20:35:49.706Z - Started listening on: \\.\pipe\nx\C:\Users\MVaughn\AppData\Local\Temp\40f34c4e7148bf29054a\d.sock
+[NX Daemon Server] - 2025-06-25T20:35:49.708Z - [WATCHER]: Subscribed to changes within: c:\WORK\patterson-hackathons\cyberdyne-hackathon (native)
+[NX Daemon Server] - 2025-06-25T20:35:49.709Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-06-25T20:35:49.711Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-06-25T20:35:49.731Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-06-25T20:35:49.731Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-06-25T20:35:49.731Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-06-25T20:35:49.734Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2025-06-25T20:35:50.362Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-06-25T20:35:50.363Z - [REQUEST]: 
+[NX Daemon Server] - 2025-06-25T20:35:50.363Z - [REQUEST]: 
+[NX Daemon Server] - 2025-06-25T20:35:50.369Z - Time taken for 'loadNxPlugins' 627.1371ms
+[NX Daemon Server] - 2025-06-25T20:35:50.370Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-06-25T20:35:50.370Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2025-06-25T20:35:50.370Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-06-25T20:35:50.370Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2025-06-25T20:35:50.370Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-06-25T20:35:50.371Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2025-06-25T20:35:50.372Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2025-06-25T20:35:50.374Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2025-06-25T20:35:50.374Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2025-06-25T20:35:50.374Z - Handled HASH_GLOB. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2025-06-25T20:35:50.374Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2025-06-25T20:35:50.374Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2025-06-25T20:35:50.564Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2025-06-25T20:35:50.565Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2025-06-25T20:35:50.565Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+(node:50024) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.
 (Use `node --trace-deprecation ...` to show where the warning was created)
-[NX Daemon Server] - 2025-06-25T20:27:20.804Z - [REQUEST]: Responding to the client. handleNxWorkspaceFiles
-[NX Daemon Server] - 2025-06-25T20:27:20.804Z - Done responding to the client handleNxWorkspaceFiles
-[NX Daemon Server] - 2025-06-25T20:27:20.804Z - Handled GET_FILES_IN_DIRECTORY. Handling time: 0. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:27:21.081Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.081Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.081Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:27:21.085Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.085Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.085Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:27:21.098Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.098Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.098Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:27:21.111Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.111Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.111Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:27:21.112Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.113Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.113Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
-[NX Daemon Server] - 2025-06-25T20:27:21.130Z - Time taken for 'build-project-configs' 1310.974ms
-[NX Daemon Server] - 2025-06-25T20:27:21.172Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Failed to process project graph. Run "nx reset" to fix this. Please report the issue if you keep seeing it.
-Failed to process project graph. Run "nx reset" to fix this. Please report the issue if you keep seeing it.
-  An error occurred while processing files for the @nx/eslint/plugin plugin.
-    - .eslintrc.json: Failed to load config "react-app" to extend from.
-  Referenced from: c:\WORK\patterson-hackathons\cyberdyne-hackathon\dynamsoft\samples\hello-world-singlepage\hello-world-react\package.json
-      Error: Failed to load config "react-app" to extend from.
-      Referenced from: c:\WORK\patterson-hackathons\cyberdyne-hackathon\dynamsoft\samples\hello-world-singlepage\hello-world-react\package.json
-          at configInvalidError (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:2648:9)
-          at ConfigArrayFactory._loadExtendedShareableConfig (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:3279:23)
-          at ConfigArrayFactory._loadExtends (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:3156:25)
-          at ConfigArrayFactory._normalizeObjectConfigDataBody (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:3095:25)
-          at _normalizeObjectConfigDataBody.next (<anonymous>)
-          at ConfigArrayFactory._normalizeObjectConfigData (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:3040:20)
-          at _normalizeObjectConfigData.next (<anonymous>)
-          at ConfigArrayFactory.loadInDirectory (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:2886:28)
-          at CascadingConfigArrayFactory._loadConfigInAncestors (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:3871:46)
-          at CascadingConfigArrayFactory._loadConfigInAncestors (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:3890:20)
-[NX Daemon Server] - 2025-06-25T20:27:21.175Z - Time taken for 'total execution time for createProjectGraph()' 46.62940000000026ms
-[NX Daemon Server] - 2025-06-25T20:27:21.176Z - Done responding to the client null
-[NX Daemon Server] - 2025-06-25T20:27:21.176Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 2158. Response time: 4.
-[NX Daemon Server] - 2025-06-25T20:27:21.179Z - [REQUEST]: Responding to the client with an error. Invalid payload from the client Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
+[NX Daemon Server] - 2025-06-25T20:35:51.059Z - [REQUEST]: Responding to the client. handleNxWorkspaceFiles
+[NX Daemon Server] - 2025-06-25T20:35:51.059Z - Done responding to the client handleNxWorkspaceFiles
+[NX Daemon Server] - 2025-06-25T20:35:51.059Z - Handled GET_FILES_IN_DIRECTORY. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2025-06-25T20:35:51.386Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2025-06-25T20:35:51.386Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2025-06-25T20:35:51.386Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2025-06-25T20:35:54.197Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2025-06-25T20:35:54.197Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2025-06-25T20:35:54.197Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2025-06-25T20:35:54.682Z - Time taken for 'build-project-configs' 4297.7369ms
+[NX Daemon Server] - 2025-06-25T20:35:54.758Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-06-25T20:35:54.759Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2025-06-25T20:35:54.760Z - Time taken for 'total for creating and serializing project graph' 5025.598800000001ms
+[NX Daemon Server] - 2025-06-25T20:35:54.761Z - Done responding to the client project-graph
+[NX Daemon Server] - 2025-06-25T20:35:54.762Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 5025. Response time: 3.
+[NX Daemon Server] - 2025-06-25T20:35:54.769Z - [REQUEST]: Responding to the client with an error. Invalid payload from the client Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
 Error: Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
     at handleMessage (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:164:104)
     at c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:72:15
@@ -76,92 +52,23 @@ Error: Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
     at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
     at Readable.push (node:internal/streams/readable:392:5)
     at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
-[NX Daemon Server] - 2025-06-25T20:27:21.179Z - Done responding to the client null
-[NX Daemon Server] - 2025-06-25T20:27:21.437Z - [WATCHER]: Processing file changes in outputs
-[NX Daemon Server] - 2025-06-25T20:27:21.438Z - [WATCHER]: .github/instructions/nx.instructions.md was modified
-[NX Daemon Server] - 2025-06-25T20:27:21.556Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
-[NX Daemon Server] - 2025-06-25T20:27:21.556Z - [REQUEST]: .github/instructions/nx.instructions.md
-[NX Daemon Server] - 2025-06-25T20:27:21.556Z - [REQUEST]: 
-[NX Daemon Server] - 2025-06-25T20:27:21.563Z - [REQUEST]: Responding to the client. handleGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.564Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.564Z - Time taken for 'hash changed files from watcher' 11.67699999999968ms
-[NX Daemon Server] - 2025-06-25T20:27:21.565Z - Done responding to the client handleGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.565Z - Handled GLOB. Handling time: 1. Response time: 2.
-[NX Daemon Server] - 2025-06-25T20:27:21.566Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.567Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.567Z - Handled HASH_GLOB. Handling time: 0. Response time: 3.
-[NX Daemon Server] - 2025-06-25T20:27:21.567Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.567Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
-[NX Daemon Server] - 2025-06-25T20:27:21.568Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.569Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.569Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
-[NX Daemon Server] - 2025-06-25T20:27:21.574Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.574Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.574Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:27:21.576Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.576Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.576Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:27:21.592Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.592Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.592Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:27:21.593Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.593Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:21.593Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:27:21.601Z - Time taken for 'build-project-configs' 37.83359999999993ms
-[NX Daemon Server] - 2025-06-25T20:27:21.618Z - Time taken for 'total execution time for createProjectGraph()' 19.041399999999612ms
-[NX Daemon Server] - 2025-06-25T20:27:22.456Z - Established a connection. Number of open connections: 4
-[NX Daemon Server] - 2025-06-25T20:27:22.457Z - Closed a connection. Number of open connections: 3
-[NX Daemon Server] - 2025-06-25T20:27:22.457Z - [REQUEST]: Client Request for Project Graph Received
-[NX Daemon Server] - 2025-06-25T20:27:22.458Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
-[NX Daemon Server] - 2025-06-25T20:27:22.459Z - [REQUEST]: 
-[NX Daemon Server] - 2025-06-25T20:27:22.459Z - [REQUEST]: 
-[NX Daemon Server] - 2025-06-25T20:27:22.471Z - Time taken for 'hash changed files from watcher' 0.23129999999991924ms
-[NX Daemon Server] - 2025-06-25T20:27:22.473Z - [REQUEST]: Responding to the client. handleGlob
-[NX Daemon Server] - 2025-06-25T20:27:22.474Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:22.474Z - Done responding to the client handleGlob
-[NX Daemon Server] - 2025-06-25T20:27:22.474Z - Handled GLOB. Handling time: 1. Response time: 1.
-[NX Daemon Server] - 2025-06-25T20:27:22.475Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:22.475Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:22.475Z - Handled HASH_GLOB. Handling time: 1. Response time: 1.
-[NX Daemon Server] - 2025-06-25T20:27:22.475Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:22.475Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:27:22.477Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:22.477Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:22.477Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:27:22.482Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:22.482Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:22.482Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:27:22.483Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:22.483Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:22.483Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:27:22.485Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:22.485Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:22.485Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:27:22.486Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:22.486Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:22.486Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:27:22.493Z - Time taken for 'build-project-configs' 19.48720000000003ms
-[NX Daemon Server] - 2025-06-25T20:27:22.515Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Failed to process project graph. Run "nx reset" to fix this. Please report the issue if you keep seeing it.
-Failed to process project graph. Run "nx reset" to fix this. Please report the issue if you keep seeing it.
-  An error occurred while processing files for the @nx/eslint/plugin plugin.
-    - .eslintrc.json: Failed to load config "react-app" to extend from.
-  Referenced from: c:\WORK\patterson-hackathons\cyberdyne-hackathon\dynamsoft\samples\hello-world-singlepage\hello-world-react\package.json
-      Error: Failed to load config "react-app" to extend from.
-      Referenced from: c:\WORK\patterson-hackathons\cyberdyne-hackathon\dynamsoft\samples\hello-world-singlepage\hello-world-react\package.json
-          at configInvalidError (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:2648:9)
-          at ConfigArrayFactory._loadExtendedShareableConfig (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:3279:23)
-          at ConfigArrayFactory._loadExtends (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:3156:25)
-          at ConfigArrayFactory._normalizeObjectConfigDataBody (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:3095:25)
-          at _normalizeObjectConfigDataBody.next (<anonymous>)
-          at ConfigArrayFactory._normalizeObjectConfigData (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:3040:20)
-          at _normalizeObjectConfigData.next (<anonymous>)
-          at ConfigArrayFactory.loadInDirectory (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:2886:28)
-          at CascadingConfigArrayFactory._loadConfigInAncestors (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:3871:46)
-          at CascadingConfigArrayFactory._loadConfigInAncestors (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:3890:20)
-[NX Daemon Server] - 2025-06-25T20:27:22.518Z - Time taken for 'total execution time for createProjectGraph()' 23.889999999999873ms
-[NX Daemon Server] - 2025-06-25T20:27:22.518Z - Done responding to the client null
-[NX Daemon Server] - 2025-06-25T20:27:22.518Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 58. Response time: 3.
-[NX Daemon Server] - 2025-06-25T20:27:22.523Z - [REQUEST]: Responding to the client with an error. Invalid payload from the client Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
+[NX Daemon Server] - 2025-06-25T20:35:54.770Z - Done responding to the client null
+[NX Daemon Server] - 2025-06-25T20:35:55.685Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2025-06-25T20:35:55.685Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2025-06-25T20:35:55.686Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2025-06-25T20:35:55.689Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2025-06-25T20:35:55.690Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2025-06-25T20:35:55.691Z - Time taken for 'total for creating and serializing project graph' 1.4295000000001892ms
+[NX Daemon Server] - 2025-06-25T20:35:55.693Z - Done responding to the client project-graph
+[NX Daemon Server] - 2025-06-25T20:35:55.693Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 3.
+[NX Daemon Server] - 2025-06-25T20:35:55.904Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2025-06-25T20:35:55.904Z - Closed a connection. Number of open connections: 4
+[NX Daemon Server] - 2025-06-25T20:35:55.905Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2025-06-25T20:35:55.906Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2025-06-25T20:35:55.907Z - Time taken for 'total for creating and serializing project graph' 1.0207999999993262ms
+[NX Daemon Server] - 2025-06-25T20:35:55.907Z - Done responding to the client project-graph
+[NX Daemon Server] - 2025-06-25T20:35:55.907Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2025-06-25T20:35:55.910Z - [REQUEST]: Responding to the client with an error. Invalid payload from the client Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
 Error: Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
     at handleMessage (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:164:104)
     at c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:72:15
@@ -171,93 +78,18 @@ Error: Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
     at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
     at Readable.push (node:internal/streams/readable:392:5)
     at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
-[NX Daemon Server] - 2025-06-25T20:27:22.523Z - Done responding to the client null
-[NX Daemon Server] - 2025-06-25T20:27:29.377Z - Established a connection. Number of open connections: 4
-[NX Daemon Server] - 2025-06-25T20:27:29.377Z - Closed a connection. Number of open connections: 3
-[NX Daemon Server] - 2025-06-25T20:27:29.378Z - Established a connection. Number of open connections: 4
-[NX Daemon Server] - 2025-06-25T20:27:29.381Z - [REQUEST]: Client Request for Project Graph Received
-[NX Daemon Server] - 2025-06-25T20:27:29.394Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
-[NX Daemon Server] - 2025-06-25T20:27:29.394Z - [REQUEST]: 
-[NX Daemon Server] - 2025-06-25T20:27:29.394Z - [REQUEST]: 
-[NX Daemon Server] - 2025-06-25T20:27:29.402Z - Time taken for 'hash changed files from watcher' 11.095299999999042ms
-[NX Daemon Server] - 2025-06-25T20:27:29.404Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:29.407Z - [REQUEST]: Responding to the client. handleGlob
-[NX Daemon Server] - 2025-06-25T20:27:29.407Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:29.407Z - Handled HASH_GLOB. Handling time: 0. Response time: 3.
-[NX Daemon Server] - 2025-06-25T20:27:29.407Z - Done responding to the client handleGlob
-[NX Daemon Server] - 2025-06-25T20:27:29.407Z - Handled GLOB. Handling time: 0. Response time: 1.
-[NX Daemon Server] - 2025-06-25T20:27:29.409Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:29.409Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:29.409Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:27:29.412Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:29.412Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:29.412Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:27:29.419Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:29.419Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:29.419Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:27:29.421Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:29.421Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:29.421Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:27:29.423Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:29.423Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:29.423Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:27:29.424Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:29.424Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:27:29.424Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:27:29.435Z - Time taken for 'build-project-configs' 32.28980000000047ms
-[NX Daemon Server] - 2025-06-25T20:27:29.468Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Failed to process project graph. Run "nx reset" to fix this. Please report the issue if you keep seeing it.
-Failed to process project graph. Run "nx reset" to fix this. Please report the issue if you keep seeing it.
-  An error occurred while processing files for the @nx/eslint/plugin plugin.
-    - .eslintrc.json: Failed to load config "react-app" to extend from.
-  Referenced from: c:\WORK\patterson-hackathons\cyberdyne-hackathon\dynamsoft\samples\hello-world-singlepage\hello-world-react\package.json
-      Error: Failed to load config "react-app" to extend from.
-      Referenced from: c:\WORK\patterson-hackathons\cyberdyne-hackathon\dynamsoft\samples\hello-world-singlepage\hello-world-react\package.json
-          at configInvalidError (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:2648:9)
-          at ConfigArrayFactory._loadExtendedShareableConfig (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:3279:23)
-          at ConfigArrayFactory._loadExtends (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:3156:25)
-          at ConfigArrayFactory._normalizeObjectConfigDataBody (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:3095:25)
-          at _normalizeObjectConfigDataBody.next (<anonymous>)
-          at ConfigArrayFactory._normalizeObjectConfigData (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:3040:20)
-          at _normalizeObjectConfigData.next (<anonymous>)
-          at ConfigArrayFactory.loadInDirectory (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:2886:28)
-          at CascadingConfigArrayFactory._loadConfigInAncestors (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:3871:46)
-          at CascadingConfigArrayFactory._loadConfigInAncestors (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\@eslint\eslintrc\dist\eslintrc.cjs:3890:20)
-[NX Daemon Server] - 2025-06-25T20:27:29.472Z - Time taken for 'total execution time for createProjectGraph()' 35.82419999999911ms
-[NX Daemon Server] - 2025-06-25T20:27:29.474Z - Done responding to the client null
-[NX Daemon Server] - 2025-06-25T20:27:29.474Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 87. Response time: 6.
-[NX Daemon Server] - 2025-06-25T20:27:29.480Z - Closed a connection. Number of open connections: 3
-[NX Daemon Server] - 2025-06-25T20:28:03.905Z - [WATCHER]: Processing file changes in outputs
-[NX Daemon Server] - 2025-06-25T20:28:03.906Z - [WATCHER]: dynamsoft was deleted
-[NX Daemon Server] - 2025-06-25T20:28:04.018Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
-[NX Daemon Server] - 2025-06-25T20:28:04.018Z - [REQUEST]: 
-[NX Daemon Server] - 2025-06-25T20:28:04.019Z - [REQUEST]: dynamsoft
-[NX Daemon Server] - 2025-06-25T20:28:04.021Z - Time taken for 'hash changed files from watcher' 0.11220000000321306ms
-[NX Daemon Server] - 2025-06-25T20:28:04.023Z - [REQUEST]: Responding to the client. handleGlob
-[NX Daemon Server] - 2025-06-25T20:28:04.024Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:28:04.024Z - Done responding to the client handleGlob
-[NX Daemon Server] - 2025-06-25T20:28:04.024Z - Handled GLOB. Handling time: 0. Response time: 1.
-[NX Daemon Server] - 2025-06-25T20:28:04.025Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:28:04.025Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:28:04.025Z - Handled HASH_GLOB. Handling time: 1. Response time: 1.
-[NX Daemon Server] - 2025-06-25T20:28:04.025Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:28:04.025Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:28:04.039Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:28:04.039Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:28:04.039Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:28:04.040Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:28:04.040Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:28:04.040Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:28:04.047Z - Time taken for 'build-project-configs' 22.39140000000043ms
-[NX Daemon Server] - 2025-06-25T20:28:04.074Z - [SYNC]: collect registered sync generators
-[NX Daemon Server] - 2025-06-25T20:28:04.075Z - Time taken for 'total execution time for createProjectGraph()' 19.75669999999809ms
-[NX Daemon Server] - 2025-06-25T20:28:04.916Z - Established a connection. Number of open connections: 4
-[NX Daemon Server] - 2025-06-25T20:28:04.916Z - Closed a connection. Number of open connections: 3
-[NX Daemon Server] - 2025-06-25T20:28:04.917Z - [REQUEST]: Client Request for Project Graph Received
-[NX Daemon Server] - 2025-06-25T20:28:04.917Z - [REQUEST]: Responding to the client. project-graph
-[NX Daemon Server] - 2025-06-25T20:28:04.918Z - Time taken for 'total for creating and serializing project graph' 0.7069000000046799ms
-[NX Daemon Server] - 2025-06-25T20:28:04.919Z - Done responding to the client project-graph
-[NX Daemon Server] - 2025-06-25T20:28:04.919Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
-[NX Daemon Server] - 2025-06-25T20:28:04.922Z - [REQUEST]: Responding to the client with an error. Invalid payload from the client Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
+[NX Daemon Server] - 2025-06-25T20:35:55.911Z - Done responding to the client null
+[NX Daemon Server] - 2025-06-25T20:35:56.894Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2025-06-25T20:35:56.894Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2025-06-25T20:35:56.894Z - Handled HASH_TASKS. Handling time: 11. Response time: 0.
+[NX Daemon Server] - 2025-06-25T20:36:00.009Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2025-06-25T20:36:00.009Z - Closed a connection. Number of open connections: 4
+[NX Daemon Server] - 2025-06-25T20:36:00.010Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2025-06-25T20:36:00.011Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2025-06-25T20:36:00.012Z - Time taken for 'total for creating and serializing project graph' 1.0732000000007247ms
+[NX Daemon Server] - 2025-06-25T20:36:00.013Z - Done responding to the client project-graph
+[NX Daemon Server] - 2025-06-25T20:36:00.013Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2025-06-25T20:36:00.017Z - [REQUEST]: Responding to the client with an error. Invalid payload from the client Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
 Error: Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
     at handleMessage (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:164:104)
     at c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:72:15
@@ -267,15 +99,23 @@ Error: Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
     at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
     at Readable.push (node:internal/streams/readable:392:5)
     at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
-[NX Daemon Server] - 2025-06-25T20:28:04.922Z - Done responding to the client null
-[NX Daemon Server] - 2025-06-25T20:28:06.006Z - Established a connection. Number of open connections: 4
-[NX Daemon Server] - 2025-06-25T20:28:06.006Z - Closed a connection. Number of open connections: 3
-[NX Daemon Server] - 2025-06-25T20:28:06.007Z - [REQUEST]: Client Request for Project Graph Received
-[NX Daemon Server] - 2025-06-25T20:28:06.008Z - [REQUEST]: Responding to the client. project-graph
-[NX Daemon Server] - 2025-06-25T20:28:06.009Z - Time taken for 'total for creating and serializing project graph' 0.9786000000021886ms
-[NX Daemon Server] - 2025-06-25T20:28:06.009Z - Done responding to the client project-graph
-[NX Daemon Server] - 2025-06-25T20:28:06.009Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
-[NX Daemon Server] - 2025-06-25T20:28:06.011Z - [REQUEST]: Responding to the client with an error. Invalid payload from the client Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
+[NX Daemon Server] - 2025-06-25T20:36:00.017Z - Done responding to the client null
+[NX Daemon Server] - 2025-06-25T20:36:02.755Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2025-06-25T20:36:02.755Z - Closed a connection. Number of open connections: 4
+[NX Daemon Server] - 2025-06-25T20:36:02.756Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2025-06-25T20:36:02.758Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2025-06-25T20:36:02.759Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2025-06-25T20:36:02.760Z - Time taken for 'total for creating and serializing project graph' 1.1617999999998574ms
+[NX Daemon Server] - 2025-06-25T20:36:02.761Z - Done responding to the client project-graph
+[NX Daemon Server] - 2025-06-25T20:36:02.761Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2025-06-25T20:36:09.098Z - Established a connection. Number of open connections: 6
+[NX Daemon Server] - 2025-06-25T20:36:09.098Z - Closed a connection. Number of open connections: 5
+[NX Daemon Server] - 2025-06-25T20:36:09.099Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2025-06-25T20:36:09.100Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2025-06-25T20:36:09.101Z - Time taken for 'total for creating and serializing project graph' 0.7593000000015309ms
+[NX Daemon Server] - 2025-06-25T20:36:09.101Z - Done responding to the client project-graph
+[NX Daemon Server] - 2025-06-25T20:36:09.101Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2025-06-25T20:36:09.103Z - [REQUEST]: Responding to the client with an error. Invalid payload from the client Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
 Error: Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
     at handleMessage (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:164:104)
     at c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:72:15
@@ -285,256 +125,36 @@ Error: Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
     at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
     at Readable.push (node:internal/streams/readable:392:5)
     at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
-[NX Daemon Server] - 2025-06-25T20:28:06.011Z - Done responding to the client null
-[NX Daemon Server] - 2025-06-25T20:28:08.140Z - Established a connection. Number of open connections: 4
-[NX Daemon Server] - 2025-06-25T20:28:08.140Z - Closed a connection. Number of open connections: 3
-[NX Daemon Server] - 2025-06-25T20:28:08.140Z - Established a connection. Number of open connections: 4
-[NX Daemon Server] - 2025-06-25T20:28:08.142Z - [REQUEST]: Client Request for Project Graph Received
-[NX Daemon Server] - 2025-06-25T20:28:08.143Z - [REQUEST]: Responding to the client. project-graph
-[NX Daemon Server] - 2025-06-25T20:28:08.144Z - Time taken for 'total for creating and serializing project graph' 0.9809999999997672ms
-[NX Daemon Server] - 2025-06-25T20:28:08.145Z - Done responding to the client project-graph
-[NX Daemon Server] - 2025-06-25T20:28:08.145Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
-[NX Daemon Server] - 2025-06-25T20:28:09.222Z - [REQUEST]: Responding to the client. handleHashTasks
-[NX Daemon Server] - 2025-06-25T20:28:09.222Z - Done responding to the client handleHashTasks
-[NX Daemon Server] - 2025-06-25T20:28:09.222Z - Handled HASH_TASKS. Handling time: 10. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:28:10.077Z - Established a connection. Number of open connections: 5
-[NX Daemon Server] - 2025-06-25T20:28:10.077Z - Closed a connection. Number of open connections: 4
-[NX Daemon Server] - 2025-06-25T20:28:10.078Z - [REQUEST]: Client Request for Project Graph Received
-[NX Daemon Server] - 2025-06-25T20:28:10.078Z - [REQUEST]: Responding to the client. project-graph
-[NX Daemon Server] - 2025-06-25T20:28:10.079Z - Time taken for 'total for creating and serializing project graph' 0.7422999999980675ms
-[NX Daemon Server] - 2025-06-25T20:28:10.079Z - Done responding to the client project-graph
-[NX Daemon Server] - 2025-06-25T20:28:10.079Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
-[NX Daemon Server] - 2025-06-25T20:28:10.082Z - [REQUEST]: Responding to the client with an error. Invalid payload from the client Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
-Error: Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
-    at handleMessage (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:164:104)
-    at c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:72:15
-    at Socket.<anonymous> (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\utils\consume-messages-from-socket.js:13:17)
-    at Socket.emit (node:events:524:28)
-    at addChunk (node:internal/streams/readable:561:12)
-    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
-    at Readable.push (node:internal/streams/readable:392:5)
-    at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
-[NX Daemon Server] - 2025-06-25T20:28:10.082Z - Done responding to the client null
-[NX Daemon Server] - 2025-06-25T20:28:15.662Z - Established a connection. Number of open connections: 5
-[NX Daemon Server] - 2025-06-25T20:28:15.663Z - Closed a connection. Number of open connections: 4
-[NX Daemon Server] - 2025-06-25T20:28:15.663Z - Established a connection. Number of open connections: 5
-[NX Daemon Server] - 2025-06-25T20:28:15.665Z - [REQUEST]: Client Request for Project Graph Received
-[NX Daemon Server] - 2025-06-25T20:28:15.666Z - [REQUEST]: Responding to the client. project-graph
-[NX Daemon Server] - 2025-06-25T20:28:15.667Z - Time taken for 'total for creating and serializing project graph' 1.2373000000006869ms
-[NX Daemon Server] - 2025-06-25T20:28:15.668Z - Done responding to the client project-graph
-[NX Daemon Server] - 2025-06-25T20:28:15.668Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
-[NX Daemon Server] - 2025-06-25T20:28:19.175Z - Established a connection. Number of open connections: 6
-[NX Daemon Server] - 2025-06-25T20:28:19.175Z - Closed a connection. Number of open connections: 5
-[NX Daemon Server] - 2025-06-25T20:28:19.176Z - [REQUEST]: Client Request for Project Graph Received
-[NX Daemon Server] - 2025-06-25T20:28:19.178Z - [REQUEST]: Responding to the client. project-graph
-[NX Daemon Server] - 2025-06-25T20:28:19.179Z - Time taken for 'total for creating and serializing project graph' 1.6082000000023982ms
-[NX Daemon Server] - 2025-06-25T20:28:19.180Z - Done responding to the client project-graph
-[NX Daemon Server] - 2025-06-25T20:28:19.180Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 2. Response time: 2.
-[NX Daemon Server] - 2025-06-25T20:28:19.184Z - [REQUEST]: Responding to the client with an error. Invalid payload from the client Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
-Error: Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
-    at handleMessage (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:164:104)
-    at c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:72:15
-    at Socket.<anonymous> (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\utils\consume-messages-from-socket.js:13:17)
-    at Socket.emit (node:events:524:28)
-    at addChunk (node:internal/streams/readable:561:12)
-    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
-    at Readable.push (node:internal/streams/readable:392:5)
-    at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
-[NX Daemon Server] - 2025-06-25T20:28:19.184Z - Done responding to the client null
-[NX Daemon Server] - 2025-06-25T20:28:19.478Z - [WATCHER]: Processing file changes in outputs
-[NX Daemon Server] - 2025-06-25T20:28:22.464Z - [WATCHER]: Processing file changes in outputs
-[NX Daemon Server] - 2025-06-25T20:28:25.138Z - [WATCHER]: Processing file changes in outputs
-[NX Daemon Server] - 2025-06-25T20:28:25.297Z - [WATCHER]: Processing file changes in outputs
-[NX Daemon Server] - 2025-06-25T20:28:25.612Z - [WATCHER]: Processing file changes in outputs
-[NX Daemon Server] - 2025-06-25T20:28:26.267Z - [WATCHER]: Processing file changes in outputs
-[NX Daemon Server] - 2025-06-25T20:28:26.374Z - [WATCHER]: Processing file changes in outputs
-[NX Daemon Server] - 2025-06-25T20:28:26.674Z - [WATCHER]: Processing file changes in outputs
-[NX Daemon Server] - 2025-06-25T20:28:27.117Z - [WATCHER]: Processing file changes in outputs
-[NX Daemon Server] - 2025-06-25T20:28:27.118Z - Closed a connection. Number of open connections: 4
-[NX Daemon Server] - 2025-06-25T20:28:27.135Z - [REQUEST]: Responding to the client. recordOutputsHash
-[NX Daemon Server] - 2025-06-25T20:28:27.135Z - Done responding to the client recordOutputsHash
-[NX Daemon Server] - 2025-06-25T20:28:27.135Z - Handled RECORD_OUTPUTS_HASH. Handling time: 4. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:28:27.140Z - Closed a connection. Number of open connections: 3
-[NX Daemon Server] - 2025-06-25T20:28:27.195Z - [WATCHER]: Processing file changes in outputs
-[NX Daemon Server] - 2025-06-25T20:29:10.088Z - [WATCHER]: Processing file changes in outputs
-[NX Daemon Server] - 2025-06-25T20:29:10.103Z - [WATCHER]: package.json was modified
-[NX Daemon Server] - 2025-06-25T20:29:10.223Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
-[NX Daemon Server] - 2025-06-25T20:29:10.223Z - [REQUEST]: package.json
-[NX Daemon Server] - 2025-06-25T20:29:10.223Z - [REQUEST]: 
-[NX Daemon Server] - 2025-06-25T20:29:10.227Z - Time taken for 'hash changed files from watcher' 0.9219999999913853ms
-[NX Daemon Server] - 2025-06-25T20:29:10.234Z - [REQUEST]: Responding to the client. handleGlob
-[NX Daemon Server] - 2025-06-25T20:29:10.235Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:29:10.235Z - Done responding to the client handleGlob
-[NX Daemon Server] - 2025-06-25T20:29:10.235Z - Handled GLOB. Handling time: 0. Response time: 1.
-[NX Daemon Server] - 2025-06-25T20:29:10.236Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:29:10.236Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:29:10.236Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
-[NX Daemon Server] - 2025-06-25T20:29:10.236Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:29:10.236Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:29:10.237Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:29:10.238Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:29:10.238Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
-[NX Daemon Server] - 2025-06-25T20:29:10.239Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:29:10.240Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:29:10.240Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
-[NX Daemon Server] - 2025-06-25T20:29:10.263Z - Time taken for 'build-project-configs' 26.528699999995297ms
-[NX Daemon Server] - 2025-06-25T20:29:10.285Z - [SYNC]: collect registered sync generators
-[NX Daemon Server] - 2025-06-25T20:29:10.286Z - [SYNC]: project graph hash is the same, not collecting task sync generators
-[NX Daemon Server] - 2025-06-25T20:29:10.286Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
-[NX Daemon Server] - 2025-06-25T20:29:10.286Z - Time taken for 'total execution time for createProjectGraph()' 25.133099999991828ms
-[NX Daemon Server] - 2025-06-25T20:29:11.106Z - Established a connection. Number of open connections: 4
-[NX Daemon Server] - 2025-06-25T20:29:11.106Z - Closed a connection. Number of open connections: 3
-[NX Daemon Server] - 2025-06-25T20:29:11.107Z - [REQUEST]: Client Request for Project Graph Received
-[NX Daemon Server] - 2025-06-25T20:29:11.107Z - [REQUEST]: Responding to the client. project-graph
-[NX Daemon Server] - 2025-06-25T20:29:11.108Z - Time taken for 'total for creating and serializing project graph' 0.8022000000055414ms
-[NX Daemon Server] - 2025-06-25T20:29:11.109Z - Done responding to the client project-graph
-[NX Daemon Server] - 2025-06-25T20:29:11.109Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
-[NX Daemon Server] - 2025-06-25T20:29:11.111Z - [REQUEST]: Responding to the client with an error. Invalid payload from the client Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
-Error: Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
-    at handleMessage (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:164:104)
-    at c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:72:15
-    at Socket.<anonymous> (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\utils\consume-messages-from-socket.js:13:17)
-    at Socket.emit (node:events:524:28)
-    at addChunk (node:internal/streams/readable:561:12)
-    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
-    at Readable.push (node:internal/streams/readable:392:5)
-    at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
-[NX Daemon Server] - 2025-06-25T20:29:11.112Z - Done responding to the client null
-[NX Daemon Server] - 2025-06-25T20:29:12.217Z - Established a connection. Number of open connections: 4
-[NX Daemon Server] - 2025-06-25T20:29:12.217Z - Closed a connection. Number of open connections: 3
-[NX Daemon Server] - 2025-06-25T20:29:12.217Z - [REQUEST]: Client Request for Project Graph Received
-[NX Daemon Server] - 2025-06-25T20:29:12.218Z - [REQUEST]: Responding to the client. project-graph
-[NX Daemon Server] - 2025-06-25T20:29:12.219Z - Time taken for 'total for creating and serializing project graph' 0.5957999999955064ms
-[NX Daemon Server] - 2025-06-25T20:29:12.219Z - Done responding to the client project-graph
-[NX Daemon Server] - 2025-06-25T20:29:12.219Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
-[NX Daemon Server] - 2025-06-25T20:29:12.221Z - [REQUEST]: Responding to the client with an error. Invalid payload from the client Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
-Error: Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
-    at handleMessage (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:164:104)
-    at c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:72:15
-    at Socket.<anonymous> (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\utils\consume-messages-from-socket.js:13:17)
-    at Socket.emit (node:events:524:28)
-    at addChunk (node:internal/streams/readable:561:12)
-    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
-    at Readable.push (node:internal/streams/readable:392:5)
-    at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
-[NX Daemon Server] - 2025-06-25T20:29:12.221Z - Done responding to the client null
-[NX Daemon Server] - 2025-06-25T20:29:16.293Z - Established a connection. Number of open connections: 4
-[NX Daemon Server] - 2025-06-25T20:29:16.293Z - Closed a connection. Number of open connections: 3
-[NX Daemon Server] - 2025-06-25T20:29:16.293Z - [REQUEST]: Client Request for Project Graph Received
-[NX Daemon Server] - 2025-06-25T20:29:16.294Z - [REQUEST]: Responding to the client. project-graph
-[NX Daemon Server] - 2025-06-25T20:29:16.295Z - Time taken for 'total for creating and serializing project graph' 0.651400000002468ms
-[NX Daemon Server] - 2025-06-25T20:29:16.295Z - Done responding to the client project-graph
-[NX Daemon Server] - 2025-06-25T20:29:16.295Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
-[NX Daemon Server] - 2025-06-25T20:29:16.297Z - [REQUEST]: Responding to the client with an error. Invalid payload from the client Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
-Error: Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
-    at handleMessage (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:164:104)
-    at c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:72:15
-    at Socket.<anonymous> (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\utils\consume-messages-from-socket.js:13:17)
-    at Socket.emit (node:events:524:28)
-    at addChunk (node:internal/streams/readable:561:12)
-    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
-    at Readable.push (node:internal/streams/readable:392:5)
-    at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
-[NX Daemon Server] - 2025-06-25T20:29:16.298Z - Done responding to the client null
-[NX Daemon Server] - 2025-06-25T20:29:25.371Z - Established a connection. Number of open connections: 4
-[NX Daemon Server] - 2025-06-25T20:29:25.371Z - Closed a connection. Number of open connections: 3
-[NX Daemon Server] - 2025-06-25T20:29:25.372Z - [REQUEST]: Client Request for Project Graph Received
-[NX Daemon Server] - 2025-06-25T20:29:25.373Z - [REQUEST]: Responding to the client. project-graph
-[NX Daemon Server] - 2025-06-25T20:29:25.374Z - Time taken for 'total for creating and serializing project graph' 1.2923000000009779ms
-[NX Daemon Server] - 2025-06-25T20:29:25.375Z - Done responding to the client project-graph
-[NX Daemon Server] - 2025-06-25T20:29:25.375Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
-[NX Daemon Server] - 2025-06-25T20:29:25.379Z - [REQUEST]: Responding to the client with an error. Invalid payload from the client Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
-Error: Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
-    at handleMessage (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:164:104)
-    at c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:72:15
-    at Socket.<anonymous> (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\utils\consume-messages-from-socket.js:13:17)
-    at Socket.emit (node:events:524:28)
-    at addChunk (node:internal/streams/readable:561:12)
-    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
-    at Readable.push (node:internal/streams/readable:392:5)
-    at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
-[NX Daemon Server] - 2025-06-25T20:29:25.379Z - Done responding to the client null
-[NX Daemon Server] - 2025-06-25T20:31:14.372Z - [WATCHER]: .nxignore was modified
-[NX Daemon Server] - 2025-06-25T20:31:14.372Z - [WATCHER]: Processing file changes in outputs
-[NX Daemon Server] - 2025-06-25T20:31:14.372Z - [WATCHER]: Stopping the watcher for c:\WORK\patterson-hackathons\cyberdyne-hackathon (sources)
-[NX Daemon Server] - 2025-06-25T20:31:14.372Z - Closed a connection. Number of open connections: 2
-[NX Daemon Server] - 2025-06-25T20:31:14.372Z - Closed a connection. Number of open connections: 1
-[NX Daemon Server] - 2025-06-25T20:31:14.373Z - Closed a connection. Number of open connections: 0
-[NX Daemon Server] - 2025-06-25T20:31:14.373Z - [WATCHER]: Stopping the watcher for c:\WORK\patterson-hackathons\cyberdyne-hackathon (outputs)
-[NX Daemon Server] - 2025-06-25T20:31:14.373Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
-[NX Daemon Server] - 2025-06-25T20:31:20.076Z - Started listening on: \\.\pipe\nx\C:\Users\MVaughn\AppData\Local\Temp\40f34c4e7148bf29054a\d.sock
-[NX Daemon Server] - 2025-06-25T20:31:20.079Z - [WATCHER]: Subscribed to changes within: c:\WORK\patterson-hackathons\cyberdyne-hackathon (native)
-[NX Daemon Server] - 2025-06-25T20:31:20.082Z - Established a connection. Number of open connections: 1
-[NX Daemon Server] - 2025-06-25T20:31:20.084Z - Closed a connection. Number of open connections: 0
-[NX Daemon Server] - 2025-06-25T20:31:20.106Z - Established a connection. Number of open connections: 1
-[NX Daemon Server] - 2025-06-25T20:31:20.107Z - Closed a connection. Number of open connections: 0
-[NX Daemon Server] - 2025-06-25T20:31:20.107Z - Established a connection. Number of open connections: 1
-[NX Daemon Server] - 2025-06-25T20:31:20.108Z - [REQUEST]: Client Request for Project Graph Received
-[NX Daemon Server] - 2025-06-25T20:31:23.837Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
-[NX Daemon Server] - 2025-06-25T20:31:23.838Z - [REQUEST]: 
-[NX Daemon Server] - 2025-06-25T20:31:23.838Z - [REQUEST]: 
-[NX Daemon Server] - 2025-06-25T20:31:23.844Z - Time taken for 'loadNxPlugins' 3727.4853999999996ms
-[NX Daemon Server] - 2025-06-25T20:31:23.846Z - Established a connection. Number of open connections: 2
-[NX Daemon Server] - 2025-06-25T20:31:23.846Z - Closed a connection. Number of open connections: 1
-[NX Daemon Server] - 2025-06-25T20:31:23.847Z - Established a connection. Number of open connections: 2
-[NX Daemon Server] - 2025-06-25T20:31:23.847Z - Established a connection. Number of open connections: 3
-[NX Daemon Server] - 2025-06-25T20:31:23.847Z - Established a connection. Number of open connections: 4
-[NX Daemon Server] - 2025-06-25T20:31:23.847Z - Closed a connection. Number of open connections: 3
-[NX Daemon Server] - 2025-06-25T20:31:23.849Z - [REQUEST]: Responding to the client. handleGlob
-[NX Daemon Server] - 2025-06-25T20:31:23.850Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:31:23.850Z - Done responding to the client handleGlob
-[NX Daemon Server] - 2025-06-25T20:31:23.850Z - Handled GLOB. Handling time: 1. Response time: 1.
-[NX Daemon Server] - 2025-06-25T20:31:23.850Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:31:23.850Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:31:26.369Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:31:26.369Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:31:26.369Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
-[NX Daemon Server] - 2025-06-25T20:31:34.335Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:31:34.336Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:31:34.336Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
-[NX Daemon Server] - 2025-06-25T20:31:34.337Z - [REQUEST]: Responding to the client. handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:31:34.338Z - Done responding to the client handleHashGlob
-[NX Daemon Server] - 2025-06-25T20:31:34.338Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
-[NX Daemon Server] - 2025-06-25T20:31:34.355Z - Time taken for 'build-project-configs' 10501.6016ms
-[NX Daemon Server] - 2025-06-25T20:31:34.385Z - [SYNC]: collect registered sync generators
-[NX Daemon Server] - 2025-06-25T20:31:34.387Z - [REQUEST]: Responding to the client. project-graph
-[NX Daemon Server] - 2025-06-25T20:31:34.388Z - Time taken for 'total for creating and serializing project graph' 14278.4215ms
-[NX Daemon Server] - 2025-06-25T20:31:34.389Z - Done responding to the client project-graph
-[NX Daemon Server] - 2025-06-25T20:31:34.389Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 14279. Response time: 2.
-[NX Daemon Server] - 2025-06-25T20:31:34.392Z - [REQUEST]: Responding to the client with an error. Invalid payload from the client Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
-Error: Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
-    at handleMessage (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:164:104)
-    at c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:72:15
-    at Socket.<anonymous> (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\utils\consume-messages-from-socket.js:13:17)
-    at Socket.emit (node:events:524:28)
-    at addChunk (node:internal/streams/readable:561:12)
-    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
-    at Readable.push (node:internal/streams/readable:392:5)
-    at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
-[NX Daemon Server] - 2025-06-25T20:31:34.392Z - Done responding to the client null
-[NX Daemon Server] - 2025-06-25T20:31:35.471Z - Established a connection. Number of open connections: 4
-[NX Daemon Server] - 2025-06-25T20:31:35.472Z - Closed a connection. Number of open connections: 3
-[NX Daemon Server] - 2025-06-25T20:31:35.473Z - [REQUEST]: Client Request for Project Graph Received
-[NX Daemon Server] - 2025-06-25T20:31:35.473Z - [REQUEST]: Responding to the client. project-graph
-[NX Daemon Server] - 2025-06-25T20:31:35.474Z - Time taken for 'total for creating and serializing project graph' 0.6362000000008265ms
-[NX Daemon Server] - 2025-06-25T20:31:35.474Z - Done responding to the client project-graph
-[NX Daemon Server] - 2025-06-25T20:31:35.474Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
-[NX Daemon Server] - 2025-06-25T20:31:35.478Z - [REQUEST]: Responding to the client with an error. Invalid payload from the client Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
-Error: Unsupported payload sent to daemon server: {"type":"REQUEST_FILE_DATA"}
-    at handleMessage (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:164:104)
-    at c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\daemon\server\server.js:72:15
-    at Socket.<anonymous> (c:\WORK\patterson-hackathons\cyberdyne-hackathon\node_modules\nx\src\utils\consume-messages-from-socket.js:13:17)
-    at Socket.emit (node:events:524:28)
-    at addChunk (node:internal/streams/readable:561:12)
-    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
-    at Readable.push (node:internal/streams/readable:392:5)
-    at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
-[NX Daemon Server] - 2025-06-25T20:31:35.478Z - Done responding to the client null
-[NX Daemon Server] - 2025-06-25T20:31:36.028Z - [WATCHER]: .nxignore was modified
-[NX Daemon Server] - 2025-06-25T20:31:36.028Z - [WATCHER]: Processing file changes in outputs
-[NX Daemon Server] - 2025-06-25T20:31:36.028Z - Closed a connection. Number of open connections: 2
-[NX Daemon Server] - 2025-06-25T20:31:36.028Z - Closed a connection. Number of open connections: 1
-[NX Daemon Server] - 2025-06-25T20:31:36.028Z - Closed a connection. Number of open connections: 0
-[NX Daemon Server] - 2025-06-25T20:31:36.028Z - [WATCHER]: Stopping the watcher for c:\WORK\patterson-hackathons\cyberdyne-hackathon (sources)
-[NX Daemon Server] - 2025-06-25T20:31:36.028Z - [WATCHER]: Stopping the watcher for c:\WORK\patterson-hackathons\cyberdyne-hackathon (outputs)
-[NX Daemon Server] - 2025-06-25T20:31:36.029Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
+[NX Daemon Server] - 2025-06-25T20:36:09.103Z - Done responding to the client null
+[NX Daemon Server] - 2025-06-25T20:36:09.111Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-06-25T20:36:12.828Z - Closed a connection. Number of open connections: 4
+[NX Daemon Server] - 2025-06-25T20:36:12.848Z - [REQUEST]: Responding to the client. recordOutputsHash
+[NX Daemon Server] - 2025-06-25T20:36:12.848Z - Done responding to the client recordOutputsHash
+[NX Daemon Server] - 2025-06-25T20:36:12.848Z - Handled RECORD_OUTPUTS_HASH. Handling time: 7. Response time: 0.
+[NX Daemon Server] - 2025-06-25T20:36:12.852Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2025-06-25T20:36:12.856Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-06-25T20:36:32.340Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2025-06-25T20:36:32.340Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2025-06-25T20:36:32.341Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2025-06-25T20:36:32.344Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2025-06-25T20:36:32.345Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2025-06-25T20:36:32.346Z - Time taken for 'total for creating and serializing project graph' 0.8966999999975087ms
+[NX Daemon Server] - 2025-06-25T20:36:32.346Z - Done responding to the client project-graph
+[NX Daemon Server] - 2025-06-25T20:36:32.347Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2025-06-25T20:36:32.456Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2025-06-25T20:36:32.457Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2025-06-25T20:36:32.457Z - Handled HASH_TASKS. Handling time: 6. Response time: 1.
+[NX Daemon Server] - 2025-06-25T20:36:33.508Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2025-06-25T20:36:33.508Z - Closed a connection. Number of open connections: 4
+[NX Daemon Server] - 2025-06-25T20:36:33.509Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2025-06-25T20:36:33.510Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2025-06-25T20:36:33.511Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2025-06-25T20:36:33.512Z - Time taken for 'total for creating and serializing project graph' 0.6282000000064727ms
+[NX Daemon Server] - 2025-06-25T20:36:33.512Z - Done responding to the client project-graph
+[NX Daemon Server] - 2025-06-25T20:36:33.512Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2025-06-25T20:36:36.009Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-06-25T20:36:36.215Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-06-25T20:36:38.028Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-06-25T20:36:39.142Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-06-25T20:37:48.139Z - Closed a connection. Number of open connections: 4
+[NX Daemon Server] - 2025-06-25T20:37:48.139Z - Closed a connection. Number of open connections: 3
