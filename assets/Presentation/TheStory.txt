@@ -23,3 +23,5 @@ Azure Cloud
 
 Next Steps:
 While we have created a customizable medical history in an attempt to get practices to adopt our standardized forms we could provide an option to let them scan in any new patient forms that they have decided to use.
+
+This could also be used by livestock management systems to process the paperwork when livestock is aqcuired or sold.
